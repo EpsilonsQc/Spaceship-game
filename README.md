@@ -17,14 +17,14 @@ A prototype made with the Raylib library, inspired by retro spaceship games. It 
 
 ## Controls
 #### Player 1
-- Arrows (up/down/left/right): control the blue ship
-- O keys: launch lasers at the red ship (Player 2)
-- P keys : launch missiles at the red ship (Player 2)
+- Arrows (up/down/left/right) : control the blue ship
+- O : launch lasers at the red ship (Player 2)
+- P : launch missiles at the red ship (Player 2)
 
 #### Player 2
-- W, A, S, D keys: control the red ship
-- Period keys: launch lasers at the blue ship (Player 1)
-- Comma keys: launch missiles at the blue ship (Player 1)
+- W, A, S, D : control the red ship
+- Period key : launch lasers at the blue ship (Player 1)
+- Comma key : launch missiles at the blue ship (Player 1)
 
 ## Credits
 - [EpsilonsQc](https://github.com/EpsilonsQc) - various optimizations to improve performance (profiling, algorithmic complexity, time complexity), observer pattern implementation (events)
